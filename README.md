@@ -2,7 +2,7 @@ Easily generate Depop resale listings for Reformation clothes with this Chrome e
 
 Follow these steps to download the extension:
 
-1. Go to https://github.com/lizmontesano/Relish-V1
+1. Go to https://github.com/lizmontesano/Relish-V2
 2. Click the small arrow on the green Code button at the top right of the repo contents. From here, select Download Zip
 3. Go to Chrome Settings using three dots on the top right corner of the browser
 4. Click on Extensions in the settings menu on the left hand side bar
