@@ -1,0 +1,20 @@
+{
+    "name": "Depop Listing Assistant",
+    "version": "2.0",
+    "manifest_version": 3,
+    "description": "An assistant to help write Depop resale listings",
+    "permissions": [
+        "storage",
+        "scripting", 
+        "tabs",
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*"
+    ]
+}
